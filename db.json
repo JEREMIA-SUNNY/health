@@ -1,0 +1,52 @@
+{
+  
+  "hours":[
+    {  
+      "id":1,
+    "category":"Play",
+    "time":"32hrs",
+    "last":"last week-36",
+    "img":"/images/play.jpg"
+     },
+     {  
+      "id":2,
+    "category":"Study",
+    "time":"14 hrs",
+    "last":"last week-36",
+    "img":"/images/joystick.jpg"
+     },
+    
+     {  
+      "id":3,
+    "category":"Social",
+    "time":"32hrs",
+    "last":"last week-36",
+    "img":"/images/social.jpg"
+     },
+     
+     {  
+      "id":4,
+    "category":"Self",
+    "time":"32hrs",
+    "last":"last week-36",
+    "img":"/images/self.jpg"
+     },
+     
+     
+     {  
+      "id":5,
+    "category":"Exercise",
+    "time":"32hrs",
+    "last":"last week-36",
+    "img":"/images/exercise.jpg"
+     },
+     
+     {  
+      "id":6,
+        "category":"Work",
+        "time":"32hrs",
+        "last":"last week-36",
+        "img":"/images/work.jpg"
+         }
+]
+}
